@@ -1,0 +1,136 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: verdana, sans-serif;
+  color: #40614e;
+}
+
+.intro {
+  width: 25%;
+  margin: auto;
+}
+h1 {
+  margin: 0;
+  font-weight: lighter;
+  font-size: 3.625rem;
+  color: #66bfbf;
+}
+
+h4 {
+  font-size: 25px;
+  font-family: sans-serif;
+  color: #66bfbf;
+}
+
+h2, h3 ,h5{
+  color: #11999e;
+}
+
+hr {
+  border-style: dotted #eaf6f6 6px;
+  width: 50px;
+  margin-top: 50px auto;
+  border-bottom: none;
+  border-radius: 300px;
+}
+.smallimage {
+  width: 100px;
+  height: 100px;
+
+}
+
+.oya, #skillimagetwo {
+  margin-top: 30px;
+
+}
+
+.header {
+  background-color: rgb(164, 202, 201);
+  position: relative;
+  width: 100%;
+  margin: 0;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  font-family: verdana, sans-serif;
+  font-weight: normal;
+}
+
+.topsky {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottomsky {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.divrow {
+  line-height: 1.2;
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  font-size: 0.9rem;
+  font-weight: normal;
+}
+
+p {
+  line-height: 1.2;
+  font-size: 0.9rem;
+}
+#myself {
+  margin-top: 40px;
+  border-radius: 100%;
+}
+.myskill {
+  text-align: center;
+  margin-top: 0;
+}
+
+#skillimageone {
+  float: left;
+  margin-right: 30px;
+}
+
+#skillimagetwo {
+  float: right;
+  margin-left: 30px;
+}
+.footer {
+  background-color: rgb(78, 133, 132);
+  padding: 15px;
+  margin: 0;
+}
+
+button {
+  margin: 10px;
+  background-color: rgb(78, 133, 132);
+  color: #ffffff;
+}
+.lastp {
+  margin-top:  20px;
+  color: #ffffff;
+}
+.pro {
+  text-decoration: underline;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  color: rgb(50, 85,85);
+  margin: 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffffff;
+}
+
+span {
+  margin: 500px auto;
+}
